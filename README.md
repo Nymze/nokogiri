@@ -17,3 +17,5 @@ recap :
   end
 5- return
 6- our la fonction search_price créer une variable name_price et ensuite inscrit name_price qui vaut a l'association de "name" converti en string+ price converti en string. affiche le nom et le prix
+
+
